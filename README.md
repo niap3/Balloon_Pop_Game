@@ -1,4 +1,7 @@
 # Simple Balloon Popping Game with VFX and Special Balloons
 
 ### Gameplay video
-[balloon_gameplay_720p.mp4](https://github.com/niap3/Balloon_Pop_Game/blob/03d0759bd5120769bb884bdb2c8f6bd4198d4109/balloon_gameplay_720p.mp4)
+
+
+https://github.com/user-attachments/assets/ab489028-f955-4e3c-9f24-baa2aab51d7c
+
