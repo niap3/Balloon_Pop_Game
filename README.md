@@ -6,32 +6,32 @@
 https://github.com/user-attachments/assets/ab489028-f955-4e3c-9f24-baa2aab51d7c
 
 ### Mechanics
-**Objective:** 
-  Pop as many balloons as possible to increase your score.
+**Objective:**  <br />
+  Pop as many balloons as possible to increase your score. <br />
 
-**Balloon Types:**
-  Normal Balloons: Pop to gain points.
-  Bonus Balloons (Yellow): Grants an extra life when popped.
-  Ex Balloons (Light Red): Reduces one life when popped.
-  Bomb Balloons (Black): Ends the game immediately if popped — avoid them!
-  Bat Balloons (Gray): Releases bats that pop all balloons above after a short delay.
+**Balloon Types:** <br />
+  Normal Balloons: Pop to gain points. <br />
+  Bonus Balloons (Yellow): Grants an extra life when popped. <br />
+  Ex Balloons (Light Red): Reduces one life when popped. <br />
+  Bomb Balloons (Black): Ends the game immediately if popped — avoid them! <br />
+  Bat Balloons (Gray): Releases bats that pop all balloons above after a short delay. <br />
 
-**Balloon Movement:**
-  Balloons ascend in various patterns: straight, diagonal, or zigzag.
+**Balloon Movement:** <br />
+  Balloons ascend in various patterns: straight, diagonal, or zigzag. <br />
 
-**Lives:**
-  You start with 9 lives.
-  Lose a life if a balloon reaches the top without being popped.
-  The game ends when all lives are lost.
+**Lives:** <br />
+  You start with 9 lives. <br />
+  Lose a life if a balloon reaches the top without being popped. <br />
+  The game ends when all lives are lost. <br />
 
-**Controls:**
-  Tap or click on balloons to pop them.
+**Controls:** <br />
+  Tap or click on balloons to pop them. <br />
 
-**Pause Menu:**
-  Adjust the balloon spawn rate using the slider.
-  Toggle sound effects on or off.
-  Switch between light and dark modes.
+**Pause Menu:** <br />
+  Adjust the balloon spawn rate using the slider. <br />
+  Toggle sound effects on or off. <br />
+  Switch between light and dark modes. <br />
 
-**Tips:**
-  Avoid bomb balloons to keep the game going.
-  Pop bat balloons strategically to clear multiple balloons.
+**Tips:** <br />
+  Avoid bomb balloons to keep the game going. <br />
+  Pop bat balloons strategically to clear multiple balloons. <br />
